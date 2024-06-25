@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>LAB1-4a</title>
-    </head>
-    <body>
-        <a href="https://rvrjcce.ac.in">rvr website</a>
-    </body>
-</html>
