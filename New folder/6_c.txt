@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        table,th{
+            border:1px solid black;
+            border-collapse: collapse;
+        }
+        table{
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+    <table >
+        <tr>
+            <th rowspan="2" width="110">Name of train</th>
+            <th rowspan="2" width="50">place</th>
+            <th rowspan="2" width="110">Destination</th>
+            <th rowspan="2" width="80">Train no</th>
+            <th colspan="2" width="150">Time</th>
+            <th rowspan="2" width="50">fare</th>     
+        </tr>
+        <tr>
+            <th>arrival</th>
+            <th>Departure</th>
+        </tr>
+    </table>
+</body>
+</html>
+
+ 

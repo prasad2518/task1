@@ -1,0 +1,48 @@
+<DOCTYPE! html>
+<html>
+    <head>
+        <title>My page #1</title>
+    </head>
+    <body>
+        <form method="post" action="">
+            <label>First Name</label>
+            <input type="text" id="firstName" name="firstname" placeholder="Enter Your First Name " value="">
+            <br><br>
+            <label>Last Name</label>
+            <input type="text" id="lastName" name="lastname" placeholder="Enter Your Last Name " value="">
+            <br><br>
+            <label>Gender</label>
+            <input type="radio"  name="gender" id="gender1" value="male">Male
+            <input type="radio"  name="gender" id="gender2" value="female">FeMale
+            <input type="radio"  name="gender" id="gender3" value="na">Rather not say 
+            <br><br>
+            <label>DOB</label>
+            <input type="date" name="dob" id="dob" value="">
+            <br><br>
+            <label>Address</label>
+            <textarea name="Address" placeholder="Enter Your Address " id="address"></textarea>
+            <br><br>
+            <label>Hobbies</label>
+            <input type="checkbox"  name="hobby" id="hobby1" value="Study">Study
+            <input type="checkbox"  name="hobby" id="hobby2" value="Play">Play
+            <input type="checkbox"  name="hobby" id="hobby3" value="Dance">Dance
+            <br><br>
+            <label>Your Academic excellence</label>
+            <select name="review" id="review-box">
+                <option>Select one of below</option>
+                <option value="Outstanding">Outstanding </option>
+                <option value="good">Good </option>
+                <option value="average">Average </option>
+                <option value="fail">Not so good </option>
+            </select>
+            <br><br>
+            <label>Upload a photo</label>
+            <input type="file" name="Userprofilepic">
+            <br><br>
+            <input type="submit">
+        </form>
+    </body>
+</html>
+
+
+ 

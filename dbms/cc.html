@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head><title>Y22CS100</title>
+</head>
+<body>
+<div id="outer" onclick="handleOuterClick()"> Outer Div
+<div id="inner" onclick="handleInnerClick()">Inner Div</div>
+</div>
+<p id="output">Event Output:</p>
+<script>
+function handleOuterClick() { document.getElementById('output').innerHTML = 'Outer div clicked';
+}
+function handleInnerClick() { document.getElementById('output').innerHTML = 'Inner div clicked';
+// Uncomment the line below to stop event bubbling event.stopPropagation();
+}
+</script>
+</body>
+</html>
+

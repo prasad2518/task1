@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Radial Gradient Example</title>
+  <style>
+    .gradient-box {
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle at bottom left, red, yellow, blue);
+    }
+  </style>
+</head>
+<body>
+  <div class="gradient-box"></div>
+</body>
+</html>
+

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>4b.html</title>
+    </head>
+    <body>
+        <a href="https://en.wikipedia.org/wiki/Wi-Fi">-Wi Fi</a>
+        <br>
+        <a href="https://en.wikipedia.org/wiki/Local_area_network">-LAN</a>
+    </body>
+</html>

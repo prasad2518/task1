@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Diagonal Linear Gradient Example</title>
+  <style>
+    .gradient-box {
+      width: 500px;
+      height: 500px;
+      background: linear-gradient(to bottom right, red, orange, yellow, green, blue, indigo, violet);
+    }
+  </style>
+</head>
+<body>
+  <div class="gradient-box"></div>
+</body>
+</html>
+
+ 

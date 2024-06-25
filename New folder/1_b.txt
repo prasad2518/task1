@@ -1,0 +1,6 @@
+<DOCTYPE! html>
+<html>
+    <body style="background-color:pink;">
+        <marquee style="color:red;">MOVING TEXT</marquee>
+    </body>
+</html>

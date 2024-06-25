@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    
+    <body>
+        <h3>FONT ATTRIBUTE:SIZE</h3>
+        <font size=3>deepika</font><br>
+        <font size=4>deepika</font><br>
+        <font size=5>deepika</font><br>
+        <h3>FONT ATTRIBUTE:FACE</h3>
+        <font face="Times New Roman">rvr clg</font><br>
+        <font face="Arial">Arial</font><br>
+        <font face="Arial Black">html</font><br>
+        <font face="Comic sans MS">hello world</font><br>
+        <h3>FONT ATTRIBUTE:COLOR</h3>
+        <font color="green" size=4>cse</font><br>
+        <font color="red" size=4>csd</font><br>
+        <font color="blue" size=4>csm</font><br>
+    </body>
+</html>
+

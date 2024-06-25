@@ -1,0 +1,10 @@
+<DOCTYPE! html>
+<html>
+    <head>
+        <title>My Sixth Page</title>
+    </head>
+    <body>
+        <p>H<sub>2</sub>O</p>
+        <p>x<sup>2</sup>+y<sup>2</sup></p>
+    </body>
+</html>
